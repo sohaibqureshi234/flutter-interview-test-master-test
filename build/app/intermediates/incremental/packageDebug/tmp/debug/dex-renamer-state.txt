@@ -1,0 +1,4 @@
+#Sun Nov 13 23:12:56 PKT 2022
+base.0=/Users/mac/Downloads/flutter-interview-test-master/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
